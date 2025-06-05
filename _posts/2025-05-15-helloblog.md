@@ -10,3 +10,4 @@ print("Hello Github Blog")
 
 - I am a doctor
 - I graduated from NYCU
+- Currently struggling with AI coding
